@@ -3,10 +3,10 @@ tagline:            "하고싶은건 뭐든 할 수 있는 마케터D"
 email:              "onlydcando@gmail.com"
 description:        "하고싶은것은 어떻게든 노력해서 할 수 있게끔만드는 마케터D의 블로그"
 author:             "마케터D"
-baseurl:            "/"
+baseurl:            ""
 url:                "https://dcando.kr"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/main_thumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
