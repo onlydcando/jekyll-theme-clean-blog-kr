@@ -1,11 +1,12 @@
 ---
 layout: post
-permalink: /stata/
+permalink: /stata/regression
 title: '회귀분석, 이거 하나면 끝'
 date: 2021-04-18 09:30:00 +09:00
 feature: '/img/posts/stata-regression/stata1_thumbnail.png'
+background: '/img/posts/stata-regression/stata1_back.png'
 categories:
-  - stata
+  - category-stata
 tags:
   - 회기분석
   - 통계
