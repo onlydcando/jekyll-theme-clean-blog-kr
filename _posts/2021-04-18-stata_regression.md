@@ -3,7 +3,7 @@ layout: post
 permalink: /stata/regression1
 title: '예제를통한계량경제학 1장 풀이'
 date: 2021-04-18 09:30:00 +09:00
-feature: '/img/posts/stata-regression/stata1_thumbnail.png'
+feature: '/img/posts/stata-regression/stata1_thumbnail.jpeg'
 background: '/img/posts/stata-regression/stata1_back.png'
 categories:
   - category-stata
