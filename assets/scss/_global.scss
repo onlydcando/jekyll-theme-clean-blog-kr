@@ -6,14 +6,15 @@
 
 // Global styling for this template
 body {
-  font-size: 20px;
+  font-size: 16px;
   color: $gray-900;
   font-family:  'Noto Sans KR', sans-serif;
 }
 
 p {
   line-height: 1.5;
-  margin: 30px 0;
+  margin: 10px 0;
+  text-align: justify;
   a {
     text-decoration: underline;
   }
@@ -39,6 +40,8 @@ a {
 blockquote {
   font-style: italic;
   color: $gray-600;
+  border-left: .25em solid #DFE2E5;
+  padding: 0 1em;
 }
 
 .section-heading {
