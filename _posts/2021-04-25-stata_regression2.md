@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /stata/regression2
+permalink: /stata/dcando_stata_regression2
 title: '예제를통한계량경제학 2장 풀이'
 date: 2021-04-23 09:30:00 +09:00
 feature: '/img/posts/stata-regression2/stata2_thumbnail.jpeg'
