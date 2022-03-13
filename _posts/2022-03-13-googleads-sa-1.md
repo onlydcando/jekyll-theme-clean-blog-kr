@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /marketing/dcando_googleads-sa-1
+permalink: /marketing/dcando_googleads-conversion-metrics-1
 title: '광고 성과 지표 톺아보기 1편'
 date: 2021-11-07 09:30:00 +09:00
 feature: '/img/posts/mkt/7_googleads/main img/2.jpeg'
